@@ -1,4 +1,0 @@
-#Thu Dec 16 23:02:25 PKT 2021
-base.0=/Users/hiteshkumar/gencore/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
