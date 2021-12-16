@@ -11,6 +11,7 @@ void main() {
           debugShowCheckedModeBanner: false,
           title: 'Gencore',
           theme: ThemeData.light(),
+
           home:  BlocProvider(
             create: (context) => GencoreBloc(GencoreInitial()),
             child: const GencoreListView(),
